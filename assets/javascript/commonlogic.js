@@ -101,7 +101,7 @@ var config = {
             activeAccount.push({
                 ID: guessID,
             }) 
-            window.location = "index.html"
+            window.location = "main.html"
         }
         else {
             $("#incorrect").text("Incorrect login information. Please check your id and password and try again.")
