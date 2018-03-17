@@ -36,6 +36,7 @@ var config = {
 
   //  window.sr = ScrollReveal();
   //  sr.reveal('.search-boxes');
+  // above attempt at scroll reveal is breaking all my functions so unfortunately is temporarily abandoned :(
 
     function mainLoad(){
     console.log("working")
