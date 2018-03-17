@@ -359,12 +359,8 @@ div.card-body.chat {
 }
 
 .crawl-name {
-    position: relative;
-    left: 60px;
     color: white;
     font-family: 'Bowlby One SC', cursive;
     font-size: 50px; 
 }
-
-
 
