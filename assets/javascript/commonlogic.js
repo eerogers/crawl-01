@@ -112,7 +112,7 @@ var config = {
 
    database.ref('/activeAccount').on('child_added', function(snap){
         crawlSync = localStorage.getItem("id")
-     //   $(".jumbotron").text(crawlSync)
+           $(".crawl-name").text(crawlSync)
     }, function (errorObject){
         console.log("The read failed:" +errorObject)
 

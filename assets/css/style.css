@@ -334,8 +334,37 @@ div.card-body.chat {
 }
 
 
+.x-buttons {
+    background-color: darkred;
+    padding: 0px 8px 0px 8px;
+    font-size: 26px;
+    margin: 8px 0px 0px 8px;
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 5px;
 
+}
+.barsPicked {
+    color: white;
+}
 
+#itemField {
+    width: 75%;
+    float: left;
+}
+
+#add {
+    width: 25%;
+    float: left;
+}
+
+.crawl-name {
+    position: relative;
+    left: 60px;
+    color: white;
+    font-family: 'Bowlby One SC', cursive;
+    font-size: 50px; 
+}
 
 
 
